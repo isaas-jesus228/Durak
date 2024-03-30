@@ -1,2 +1,1 @@
 alert(crownCard);
-alert(crownCard);
