@@ -1,4 +1,12 @@
 .deck {
   position: absolute;
   top: 40%;
+  left: 10px;
+}
+
+.suit{
+  position: absolute;
+  top: 40%;
+  left: 70px;
+  transform: rotate(90deg);
 }
